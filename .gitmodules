@@ -1,0 +1,3 @@
+[submodule "lab2_retry"]
+	path = lab2_retry
+	url = https://github.com/manbirrrr19/lab2_retry.git
